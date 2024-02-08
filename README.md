@@ -3,7 +3,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=viveksite&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://github.com/VivekSite"
     alt="viveksite"
   />
 </p>
@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://twitter.com/vivek_kumar2003" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/vivek_kumar2003?logo=twitter&style=for-the-badge"
+      src="https://twitter.com/VIVEK_KUMAR2003"
       alt="vivek_kumar2003"
   /></a>
 </p>
