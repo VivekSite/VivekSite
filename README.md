@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Sahani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left">
-  <img
-    src="https://github.com/VivekSite"
-    alt="viveksite"
-  />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/vivek_kumar2003" target="blank"
-    ><img
-      src="https://twitter.com/VIVEK_KUMAR2003"
-      alt="vivek_kumar2003"
-  /></a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/vivek_kumar2003" target="blank"
