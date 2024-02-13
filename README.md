@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/vivek_kumar2003" target="blank"
+  <a href="https://twitter.com/vivek_kumar2003" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -12,8 +12,8 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-sahani-ab8b2b220/"
-    target="blank"
+    href="https://linkedin.com/in/vivek-sahani-ab8b2b220/"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -22,8 +22,8 @@
       width="40"
   /></a>
   <a
-    href="https://stackoverflow.com/users/https://stackoverflow.com/users/21147021/vivek-kumar?tab=profile"
-    target="blank"
+    href="https://stackoverflow.com/users/21147021/vivek-kumar?tab=profile"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -32,8 +32,8 @@
       width="40"
   /></a>
   <a
-    href="https://fb.com/https://www.facebook.com/profile.php?id=61555730343311"
-    target="blank"
+    href="https://www.facebook.com/profile.php?id=61555730343311"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -42,8 +42,8 @@
       width="40"
   /></a>
   <a
-    href="https://instagram.com/https://www.instagram.com/vivek39266/"
-    target="blank"
+    href="https://www.instagram.com/vivek39266/"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -52,8 +52,8 @@
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbzbwtkm7cjzmmuzjs7e0pg"
-    target="blank"
+    href="https://www.youtube.com/channel/ucbzbwtkm7cjzmmuzjs7e0pg"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
@@ -62,8 +62,8 @@
       width="40"
   /></a>
   <a
-    href="https://www.codechef.com/users/https://www.codechef.com/users/vivek39266"
-    target="blank"
+    href="https://www.codechef.com/users/vivek39266"
+    target="_blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
@@ -72,8 +72,8 @@
       width="40"
   /></a>
   <a
-    href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sram39266"
-    target="blank"
+    href="https://www.hackerrank.com/profile/sram39266"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -82,8 +82,8 @@
       width="40"
   /></a>
   <a
-    href="https://codeforces.com/profile/https://codeforces.com/profile/vivek39266"
-    target="blank"
+    href="https://codeforces.com/profile/vivek39266"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
@@ -92,8 +92,8 @@
       width="40"
   /></a>
   <a
-    href="https://www.leetcode.com/https://leetcode.com/vivek39266/"
-    target="blank"
+    href="https://leetcode.com/vivek39266/"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -102,8 +102,8 @@
       width="40"
   /></a>
   <a
-    href="https://www.hackerearth.com/https://www.hackerearth.com/@sram39266"
-    target="blank"
+    href="https://www.hackerearth.com/@sram39266"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
@@ -112,8 +112,8 @@
       width="40"
   /></a>
   <a
-    href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vivek39266"
-    target="blank"
+    href="https://auth.geeksforgeeks.org/user/vivek39266"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
