@@ -52,7 +52,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/channel/ucbzbwtkm7cjzmmuzjs7e0pg"
+    href="https://www.youtube.com/channel/UCBzbWTKm7CjZMmUZjs7E0pg"
     target="_blank"
     ><img
       align="center"
