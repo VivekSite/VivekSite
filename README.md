@@ -1,3 +1,9 @@
+<style>
+    a{
+        margin-right: 1rem;
+    }
+</style>
+
 <h1 align="center">Hi 👋, I'm Vivek Sahani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -384,7 +390,7 @@
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOEJPod0ytDMifw76b1RuJ6ZdsuFddspjg9ZwKa9NDg&s"
       alt="rust"
       width="40"
       height="40"
