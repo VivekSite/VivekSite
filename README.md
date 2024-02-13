@@ -129,6 +129,7 @@
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
+      style="color: white;"
       width="40"
       height="40"
     />
