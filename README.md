@@ -471,7 +471,7 @@ I am proactively seeking opportunities to apply my theoretical knowledge in real
 <h1 align="center">Stats</h1>
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=VivekSite&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1"
+    src="https://github-readme-stats.vercel.app/api?username=VivekSite&show_icons=true&include_all_commits=true&count_private=true&theme=react&locale=en&hide_border=true"
     height="150"
     alt="stats graph"
   />
